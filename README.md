@@ -3,16 +3,16 @@ In this notebook, we build a simple model using Keras to classify Fashion-MNIST 
 
 The training set consists of 60k examples and test set consists of 10k examples. I have also created a validation set of 4K samples. Each example is a 28x28 grayscale image, associated with a label from 10 classes as mentioned below.
 
-0 T-shirt/top
-1 Trouser
-2 Pullover
-3 Dress
-4 Coat
-5 Sandal
-6 Shirt
-7 Sneaker
-8 Bag
-9 Ankle boot
+0  T-shirt/top
+1  Trouser
+2  Pullover
+3  Dress
+4  Coat
+5  Sandal
+6  Shirt
+7  Sneaker
+8  Bag
+9  Ankle boot
 
 Used EarlyStopping to reduce overfitting
 
